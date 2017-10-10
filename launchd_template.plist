@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>{com.username.name}</string>
+
+  <key>Program</key>
+  <string>{Program Path}</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>{Argument}</string>
+  </array>
+
+  <key>StandardOutPath</key>
+  <string>{Output Log Path}</string>
+  <key>StandardErrorPath</key>
+  <string>{Error Log Path}</string>
+
+</dict>
+</plist>
