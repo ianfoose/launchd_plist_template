@@ -1,4 +1,4 @@
-# launchd_plist_template
+# Launchd Plist Template
 
 A plist template for getting started with launchd jobs.  This template provides a skelton structure for a launchd job.  
 
