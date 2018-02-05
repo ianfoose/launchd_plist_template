@@ -16,7 +16,7 @@ Type the follwing into terminal
 
 ### To Unload
 
-```launchctl load ~/Library/LaunchAgents/<name_of_plist>```
+```launchctl unload ~/Library/LaunchAgents/<name_of_plist>```
 
 ## Running
 
